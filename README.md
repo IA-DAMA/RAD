@@ -34,12 +34,5 @@ import pandas as pd
 
 #------Imprime os dados do aluno-----------------------------------------------------------------------
 
-#-------Programa Principal----------------------------------------------------------------------          
-
-janela=tk.Tk()
-principal=PrincipalRAD(janela)
-janela.title('Bem Vindo ao RAD')
-janela.geometry("820x600+10+10")
-janela.mainloop()
-          
+#-------Programa Principal----------------------------------------------------------------------               
           
